@@ -1,0 +1,5 @@
+[book]
+authors = ["Dmitry V. Sokolov"]
+multilingual = false
+src = "src"
+title = "TinyRenderer"
