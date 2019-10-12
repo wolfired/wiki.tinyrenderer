@@ -6,7 +6,7 @@ the source repo is [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)!
 
 the source wiki's title have the char `:` that can not be a filename in windows.
 
-## Build an show the wiki
+## Build and show the wiki
 
 ```bash
 # mdbook is a gitbook liked doc maker
